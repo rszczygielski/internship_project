@@ -1,0 +1,10 @@
+#############################################
+DEEP LEARING APPROACH SET DIFFERENCE: 0.4
+#############################################
+HMM APPROACH SET DIFFERENCE: 0.15
+#############################################
+Union lenght: 1077
+Intersection lenght: 488
+Deep Set Difference lenght: 432
+HMM Set Difference lenght: 157
+#############################################
